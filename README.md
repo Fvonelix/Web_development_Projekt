@@ -17,7 +17,7 @@ Ein zentrales Element des Projekts ist die Implementierung einer Client-Server-A
 
 **Zusammenfassung:**
 
-- Online-Spielmodus (Spieler gegen Spieler)  
+- PvP-Spielmodus (Spieler gegen Spieler)  
 - Korrekte Regeln (Zugvalidierung, Schach/Matt)  
 - Spiellogik (Zugregeln, Schachprüfung)  
 
